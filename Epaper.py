@@ -40,7 +40,7 @@ if __name__ == '__main__':
      main()
 
 #C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
-driver = webdriver.Chrome(executable_path='C:/Users/sabv2e15338.VEE2OFFICE/Desktop/E-paper Python/chromedriver.exe')
+driver = webdriver.Chrome(executable_path='path')
 
 print("The chrome is launched")
 
